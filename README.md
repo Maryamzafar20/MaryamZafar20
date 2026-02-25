@@ -88,6 +88,10 @@ My work sits at the intersection of **data analytics, business operations, and s
 - Field mapping documentation  
 - Migration testing & reconciliation  
 
+### 📌 Waste Managment Analysis
+- Full-Stack Data Pipeline  
+- Root-Cause Diagnosis  
+- Prescriptive Financial Impact  
 ---
 
 ## 🔄 Additional Skills That Add Business Value
