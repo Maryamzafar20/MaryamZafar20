@@ -69,31 +69,6 @@ My work sits at the intersection of **data analytics, business operations, and s
 
 ---
 
-## 📁 Selected Project Work
-
-### 📌 Power BI — Dispensary Data Analysis
-- Analyzed customer churn and regional product demand  
-- Built dashboards highlighting trends and operational insights  
-
-### 📌 Excel — Financial Modeling (Healthcare Case Study)
-- Built a financial model analyzing cost structures and outcomes  
-- Focused on accuracy, assumptions, and scenario analysis  
-
-### 📌 Python — Revenue & Price Estimation
-- Regression-based analysis to assess price sensitivity  
-- Statistical validation and data-driven storytelling  
-
-### 📌 ERP Data Migration (Real-World)
-- Large-scale data cleaning and validation  
-- Field mapping documentation  
-- Migration testing & reconciliation  
-
-### 📌 Waste Managment Analysis
-- Full-Stack Data Pipeline  
-- Root-Cause Diagnosis  
-- Prescriptive Financial Impact  
----
-
 ## 🔄 Additional Skills That Add Business Value
 
 - API Testing using **Postman**
